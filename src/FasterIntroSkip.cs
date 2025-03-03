@@ -15,11 +15,11 @@ using
 Modding
 ;
 namespace
-SkippableIntro
+FasterIntroSkip
 ;
 public
 class
-SkippableIntro
+FasterIntroSkip
 :
 Mod
 {
@@ -34,7 +34,7 @@ GetName
 (
 )
 =>
-"SkippableIntro"
+"FasterIntroSkip"
 ;
 public
 override
@@ -77,12 +77,12 @@ OpeningSequence
 .
 Start
 +=
-EnableSkippableIntro
+EnableFasterIntro
 ;
 }
 private
 IEnumerator
-EnableSkippableIntro
+EnableFasterIntro
 (
 On
 .

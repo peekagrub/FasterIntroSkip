@@ -1,4 +1,4 @@
-# SkippableIntro
+# FasterIntroSkip
 
 Makes skipping the intro cutscenes faster.
 
