@@ -1,6 +1,6 @@
 # SkippableIntro
 
-This is a mod for the game Hollow Knight
+Makes skipping the intro cutscenes faster.
 
 # EUPL
                       Copyright (c) 2025 peekagrub
